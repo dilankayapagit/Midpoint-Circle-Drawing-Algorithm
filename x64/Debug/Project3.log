@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(18,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(39,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(39,8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(49,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(49,9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(56,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(62,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(62,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(63,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(63,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(64,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(64,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(65,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(65,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(66,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(66,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(67,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(67,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(68,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(68,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(69,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(69,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(98,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(180,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(180,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(181,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(181,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(188,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(188,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(189,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(189,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(195,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\Downloads\Opengl\Project3\Project3\main.cpp(197,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project3.vcxproj -> C:\Users\USER\Downloads\Opengl\Project3\Project3\x64\Debug\Project3.exe
